@@ -1,6 +1,4 @@
-# Sample
-
-
+# Sampl
 Testing WBH Commit 1.
 Testing WBH Commit 2.
 Testing WBH Commit 3.
